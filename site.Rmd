@@ -1,0 +1,19 @@
+---
+title: "Site"
+author: "Junnan"
+date: "15/04/2018"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_knit$set(root.dir = '/Volumes/NO NAME/Course/8. Introduction to R Markdown')
+```
+
+## Philiosophical site
+
+This is a philiosophical struture of the idea relation to the site between iamge and text. This angency beased on the real place that has the phyical dislocation from 1939 to 2009 in China. 
+
+![](/Volumes/NO NAME/Course/8. Introduction to R Markdown/site.jpeg)
+
+<iframe style="border:0px;scrolling:yes;width:100%;height:530px"
+src=http://thetextualmechanic.blogspot.co.uk/p/publications_29.html>
